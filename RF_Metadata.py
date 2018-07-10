@@ -26,5 +26,5 @@ def create_testcases_list(test_data_path, outputfilepath):
     file.close()
 
 
-create_testcases_list("D:\\Systech GIT Clones\\UniTraceQAAutomationRF_Amritansh\\UniTraceQAAutomationRF\\login_tests",
-                      "D:\\Systech GIT Clones\\UniTraceQAAutomationRF_Amritansh\\login_doc.csv")
+create_testcases_list("D:\\login_tests",
+                      "D:\\login_doc.csv")
